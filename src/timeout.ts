@@ -1,4 +1,4 @@
-const reliableFetch = require('@hachibu/reliable-fetch').default
+import reliableFetch from '@hachibu/reliable-fetch'
 
 async function main() {
     const timeout = 10 // milliseconds
