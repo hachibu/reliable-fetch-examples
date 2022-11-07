@@ -1,0 +1,7 @@
+{
+  "name": "reliable-fetch-examples",
+  "private": true,
+  "dependencies": {
+    "@hachibu/reliable-fetch": "^0.0.60"
+  }
+}
